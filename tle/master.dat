@@ -1,0 +1,41 @@
+tle-new.tle:  Last 30 Days' Launches
+stations.tle:  Space Stations
+visual.tle:  100 (or so) Brightest
+active.tle:  Active Satellites
+analyst.tle:  Analyst Satellites
+weather.tle:  Weather
+noaa.tle:  NOAA
+goes.tle:  GOES
+resource.tle:  Earth Resources
+sarsat.tle:  Search & Rescue (SARSAT)
+dmc.tle:  Disaster Monitoring
+tdrss.tle:  Tracking and Data Relay Satellite System (TDRSS)
+argos.tle:  ARGOS Data Collection System
+planet.tle:  Planet
+spire.tle:  Spire
+geo.tle:  Active Geosynchronous
+intelsat.tle:  Intelsat
+ses.tle:  SES
+iridium-next.tle:  Iridium NEXT 
+starlink.tle:  Starlink
+oneweb.tle:  OneWeb
+orbcomm.tle:  Orbcomm
+globalstar.tle:  Globalstar
+swarm.tle:  Swarm
+amateur.tle:  Amateur Radio
+x-comm.tle:  Experimental Comm
+other-comm.tle:  Other Comm
+satnogs.tle:  SatNOGS
+gnss.tle:  GNSS
+gps-ops.tle:  GPS Operational
+glo-ops.tle:  GLONASS Operational
+galileo.tle:  Galileo
+beidou.tle:  Beidou
+sbas.tle:  Satellite-Based Augmentation System (WAAS/EGNOS/MSAS)
+science.tle:  Space & Earth Science
+geodetic.tle:  Geodetic
+engineering.tle:  Engineering
+education.tle:  Education
+radar.tle:  Radar Calibration
+cubesat.tle:  CubeSats
+other.tle:  Other Satellites
